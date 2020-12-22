@@ -8,6 +8,7 @@
 <body>
 
     <h1>Contact</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque aspernatur nobis eaque ut sunt nemo tenetur, sapiente sit natus consequuntur iusto nihil eligendi, ad accusantium exercitationem totam est voluptate dolorum.</p>
     
 </body>
 </html>
